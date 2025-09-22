@@ -5,7 +5,12 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-Assunto:  
+- Daniel Kruger
+- Eduardo Silverio Lyra
+- Lucas Fritzke
+- Luiz Henrique Martendal
+
+Assunto: RVi - Realidade Virtual Imersiva
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
